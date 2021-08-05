@@ -1,0 +1,9 @@
+.aboutSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    flex-direction: column;
+    max-width: 1250px;
+    margin: 0 auto;
+}
