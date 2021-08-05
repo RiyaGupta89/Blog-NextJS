@@ -1,0 +1,21 @@
+.notFoundSection {
+    display: flex;
+    flex-direction: column;
+    height: 76vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.notFoundSection h1 {
+    font-size: 30px;
+}
+
+.image {
+    width: 180px;
+    object-fit: contain;
+}
+
+.redirecting {
+    text-decoration: underline;
+    color: rgb(6, 123, 201);
+}
