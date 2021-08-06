@@ -1,0 +1,51 @@
+[
+    {
+        "_id": 1,
+        "title": "The #1 Trick For Doubling Your Weight-Loss Success",
+        "img": "https://blog.myfitnesspal.com/wp-content/uploads/2020/07/The-1-Trick-For-Doubling-Your-Weight-Loss-Success-750x592.jpg",
+        "category": "FITNESS",
+        "writer": "Lauren Krouse"
+    },
+    {
+        "_id": 2,
+        "title": "How to Lose Weight and Keep it Off, According to a Doctor",
+        "img": "https://blog.myfitnesspal.com/wp-content/uploads/2020/05/How-to-Lose-Weight-and-Keep-it-Off-According-to-a-Doctor-750x592.jpg",
+        "category": "FITNESS",
+        "writer": "Kevin Gray"
+    },
+    {
+        "_id": 3,
+        "title": "10 Reasons to Walk Every Day",
+        "img": "https://blog.myfitnesspal.com/wp-content/uploads/2021/07/10-Reasons-to-Walk-Every-Day-2-750x592.jpg",
+        "category": "FITNESS",
+        "writer": "Dan Feldman"
+    },
+    {
+        "_id": 4,
+        "title": "How to Lose Weight (Without Dieting): 5 Rules of Weight Loss",
+        "img": "https://www.nerdfitness.com/wp-content/uploads/2019/08/lego-shop.jpg",
+        "category": "FITNESS",
+        "writer": "Steve Kamb"
+    },
+    {
+        "_id": 5,
+        "title": "How to Get Your Steps When it’s Too Hot to Walk Outside",
+        "img": "https://blog.myfitnesspal.com/wp-content/uploads/2021/07/How-to-Get-Your-Steps-When-its-Too-Hot-to-Walk-Outside-752x472.jpg",
+        "category": "FITNESS",
+        "writer": "Marc Lindsey"
+    },
+    {
+        "_id": 6,
+        "title": "Are Artificial Sweeteners Healthy?",
+        "img": "https://blog.myfitnesspal.com/wp-content/uploads/2021/07/Are-Artificial-Sweeteners-Healthy-752x472.jpg",
+        "category": "FITNESS",
+        "writer": "Kelly Hogan"
+    },
+    {
+        "_id": 7,
+        "title": "The Keto Guide to Fruit: Which to Eat or Avoid",
+        "img": "https://blog.myfitnesspal.com/wp-content/uploads/2020/01/The-Keto-Guide-to-Fruit_-Which-to-Eat-or-Avoid-752x472.jpg",
+        "category": "FITNESS",
+        "writer": "Lauren Del Turco"
+    }
+]

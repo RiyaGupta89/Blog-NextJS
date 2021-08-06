@@ -1,8 +1,19 @@
 import Layout from "./components/Layout";
 import Link from "next/link"
 import styles from "../styles/404.module.css"
+import {useEffect} from "react";
+import {useRouter} from "next/router"
+
+
 
 function NotFound() {
+    
+    const router = useRouter();
+
+    useEffect(() => {
+        setTimeout(router.push("/"), 6000)
+    },[])
+
     return (
         <Layout>
         <section className={styles.notFoundSection}>

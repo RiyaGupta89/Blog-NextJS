@@ -35,6 +35,7 @@ a {
 .navigation a {
   padding-bottom: 5px;
   transition: all 0.2s;
+  text-transform: capitalize;
 }
 
 .navigation a:hover {
@@ -49,3 +50,5 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+
