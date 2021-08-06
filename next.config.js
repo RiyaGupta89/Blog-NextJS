@@ -1,4 +1,7 @@
 module.exports = {
+  images: {
+    domains: ['wp-content'],
+  },
   typescript: {
     // !! WARN !!
     // Dangerously allow production builds to successfully complete even if
@@ -7,7 +10,6 @@ module.exports = {
     ignoreBuildErrors: true,
   },
   reactStrictMode: true,
-  images: {
-    domains: ['assets.example.com'],
-  },
 }
+
+

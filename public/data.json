@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "8 Brilliant Organizing Tips to Steal from Airbnb Hosts",
-        "img": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_487/k%2F07-2021-AirbnbOrganizing%2FAirbnb1",
+        "img": "/blog1.jpg",
         "writer": "Kevin Loreng",
         "category": "LIVING"
     },
@@ -10,41 +10,41 @@
         "id": 2,
         "title": "This Throwback Kitchen Cabinet Trend Is Back, Better Than Ever, and Now Hackable",
         "writer": "Danielle Blundell",
-        "img": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_487/at%2Farchive%2Fdbb03df2955d3d9c4cd06a6e6204614dea744e68",
+        "img": "/blog2.jpg",
         "category": "STYLE"
     },
     {
         "id": 3,
         "title": "The 7 Trees You Should Never Plant in Your Yard, According to Real Estate Pros",
-        "img": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_486/at%2Freal-estate%2Ftrees-in-backyard",
+        "img": "/blog3.jpg",
         "writer": "Adrienne Jordan",
         "category": "REAL ESTATE"
     },
     {
         "id": 4,
         "title": "30 Crafts and activities to do with kids at home",
-        "img": "https://145osg1by2qolygyh35yqgwt-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/artgalleryweb_13-e1523911237435.jpg",
+        "img": "/blog4.jpg",
         "writer": "Henry Orenin",
         "category": "KIDS"
     },
     {
         "id": 5,
         "title": "STEPS TO A SUSTAINABLE SUMMER",
-        "img": "https://145osg1by2qolygyh35yqgwt-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/grovesummer_3-e1562704905214.jpg",
+        "img": "/blog5.jpg",
         "writer": "Adrienne Jordan",
         "category": "FAMILY"
     },
     {
         "id": 6,
         "title": "Step By Step – How I Do My Gallery Walls",
-        "img": "http://www.athomewithnatalie.com/wp-content/uploads/2021/07/ATHOMEWITHNATALIE-gallery-wall-how-to-683x1024.png",
+        "img": "/blog6.jpg",
         "writer": "Danielle Blundell",
         "category": "HOME DECOR"
     },
     {
         "id": 7,
         "title": "Summer Quiet Time – Learning Fun with Reading Eggs",
-        "img": "http://www.athomewithnatalie.com/wp-content/uploads/2021/06/reading-eggs-athomewithnatalie-1-520x400.jpg",
+        "img": "/blog7.jpg",
         "writer": "Kevin Loreng",
         "category": "SUMMER"
     }
