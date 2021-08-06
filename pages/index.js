@@ -2,6 +2,7 @@ import Layout from "./components/Layout";
 import styles from "../styles/Home.module.css";
 import Link from "next/link"
 import fitness from "../public/fitness.json"
+import Image from "next/image"
 
 function Home() {
   return (
@@ -23,7 +24,7 @@ function Home() {
           <div className={styles.blog} key={curr._id}>
         <Link href="/blogs/blog" >
         <a>
-        <img src={curr.img} width={310} height={200} alt="blog-image"/>
+        <Image src={curr.img} width={310} height={200} alt="blog-image"/>
         <div className={styles.blogText}>
           <span className={styles.category}>{curr.category}</span>
         <h3>{curr.title}</h3>
